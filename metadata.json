@@ -1,0 +1,6 @@
+{
+  "name": "SACRED JOURNEY: Buddhist Sacred Places",
+  "description": "An interactive 3D educational adventure exploring Buddhist sacred places, ancient architecture, and cultural heritage for young explorers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
